@@ -1,0 +1,6 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "initialPage": "https://0w8v2.sharepoint.com/sites/spfx-crud-pnp-AI/_layouts/15/workbench.aspx"
+}
